@@ -9,5 +9,6 @@ My lectures of learning financial topics with Python from DataCamp.
 * [Budgeting Application](https://github.com/tanatiem/Finance-with-Python/blob/master/Budgeting%20Application.ipynb)
 
 ## Intro to Portfolio Risk Management
-* [Financial Returns and Moments](https://github.com/tanatiem/Finance-with-Python/blob/master/Financial%20Returns%20and%20Moments.ipynb)
-* [Portfolio Investing](Portfolio%20Investing.ipynb)
+* [Financial Returns and Moments](https://github.com/tanatiem/Finance-with-Python/blob/master/Financial%20Returns%20and%20Moments.ipynb)<br/>Financial returns calculation, annualization, mean, standard deviation (volatility), skewness, kurtosis
+* [Portfolio Investing](Portfolio%20Investing.ipynb)<br>
+Calculating portfolio returns and annualization, equal weighted, market-cap weighted, co-variance matrix, portfolio volatility, Markowitz portfolios, MSR, GMV
