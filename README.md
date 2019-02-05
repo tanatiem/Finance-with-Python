@@ -10,4 +10,4 @@ My lectures of learning financial topics with Python from DataCamp.
 
 ## Intro to Portfolio Risk Management
 * [Financial Returns and Moments](https://github.com/tanatiem/Finance-with-Python/blob/master/Financial%20Returns%20and%20Moments.ipynb)
-* [Portfolio Investing](Portfolio%20Investing.ipynbipynb)
+* [Portfolio Investing](Portfolio%20Investing.ipynb)
